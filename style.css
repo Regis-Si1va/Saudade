@@ -1,0 +1,24 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	background-color: #CCCCdd;
+	align-items: center;
+	text-align: center;
+	width: 100%
+}
+
+main {
+	display: inline-block;
+	align-items: center;
+}
+
+.botao {
+	margin: auto 1em;
+	width: 18rem;
+	padding: 1rem;
+	margin: 0.5em;
+	color: #ffffff;
+	font-weight: bold;
+	background: #0A6cc6;
+	font-size: 1.2rem;
+	
+}
